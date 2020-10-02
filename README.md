@@ -1,14 +1,12 @@
-# IPL--data-analysis
-IPL data analysis
+## Indian Premeir League(IPL)--Data-Analysis
 
-The repository contains the following:
+# IPL data analysis
 
+This repository contains the following:-
 
 a) IPL data anaylsis using python
 
-
 b)Presentation of the analyzed data
-
 
 c)video of presentation
 
